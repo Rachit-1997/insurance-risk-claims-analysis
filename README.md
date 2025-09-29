@@ -8,14 +8,18 @@ It demonstrates how business intelligence tools can help uncover insights into c
 ## 📁 Repository Structure
 
 
-insurance risk and claim analysis/
+insurance-risk-claims-analysis/
 ├── dashboard images/
 │   └── home dashboard.png
 ├── data/
 │   └── insurance_policies_data.xlsx
+├── documents/                     # ⬅️ New folder
+│   ├── Domain_Document.docx
+│   └── Business_Requirement.docx
 ├── power bi/
 │   └── insurance_domain.pbix
 └── README.md
+
 
 
 ---
