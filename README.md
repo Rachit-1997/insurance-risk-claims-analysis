@@ -13,7 +13,7 @@ insurance-risk-claims-analysis/
 │   └── home dashboard.png
 ├── data/
 │   └── insurance_policies_data.xlsx
-├── documents/                     # ⬅️ New folder
+├── documents/
 │   ├── Domain_Document.docx
 │   └── Business_Requirement.docx
 ├── power bi/
